@@ -1,0 +1,22 @@
+Employee Name: John Doe
+
+Email:
+john.doe@gmail.com
+
+Phone:
+9876543210
+
+Aadhaar:
+123412341234
+
+PAN:
+ABCDE1234F
+
+Salary:
+90000
+
+Password:
+MyPassword@123
+
+API_KEY:
+AIzaSyABCDEF123456789XYZ

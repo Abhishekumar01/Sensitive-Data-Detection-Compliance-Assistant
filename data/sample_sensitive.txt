@@ -1,0 +1,31 @@
+Employee Report
+
+Employee ID : EMP1001
+
+Employee Name : Rahul Sharma
+
+Email : rahul@gmail.com
+
+Alternative Email : rahul.sharma@company.com
+
+Phone : 9876543210
+
+Aadhaar : 1234 5678 9012
+
+PAN : ABCDE1234F
+
+Credit Card : 4111111111111111
+
+Bank Account : 123456789012
+
+IFSC : SBIN0001234
+
+Password : MyPassword@123
+
+API_KEY = AIzaSyAABBCCDDEEFF112233
+
+This document is CONFIDENTIAL.
+
+Salary details should not be shared.
+
+Internal Use Only.
